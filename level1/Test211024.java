@@ -13,7 +13,7 @@ public class Test211024 {
 	}
 	
 	public String solution(String phone_number) {
-		 String star = "";      
+		   String star = "";      
 
 	       for(int i=0; i<phone_number.length()-4; i++){
 	           star += "*";
