@@ -45,7 +45,7 @@ face에 해당하는 의상이 crow_mask, blue_sunglasses, smoky_makeup이므로
 1. crow_mask
 2. blue_sunglasses
 3. smoky_makeup
- * */
+*/
 
 package level_2;
 
